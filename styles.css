@@ -1,0 +1,29 @@
+body{
+    margin:0px;
+}
+.first_part{
+    background-color: #1F2937;
+}
+
+.header{
+    display: flex;
+}
+.headers_links{
+    color: #E5E7EB;
+}
+
+.logo, h1{
+    color: #F5F7FA;
+}
+
+.first_part_content{
+    display:flex;
+}
+
+.informations{
+    display:flex;
+}
+
+.banner{
+    display:flex;
+}
